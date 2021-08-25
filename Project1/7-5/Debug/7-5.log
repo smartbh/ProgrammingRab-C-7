@@ -1,0 +1,10 @@
+﻿  main.c
+c:\users\pc\desktop\대학자료\2학년\1학기\프로그래밍랩\과제 9\project1\7-5\main.c(16): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\대학자료\2학년\1학기\프로그래밍랩\과제 9\project1\7-5\main.c(21): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\pc\desktop\대학자료\2학년\1학기\프로그래밍랩\과제 9\project1\7-5\main.c(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\대학자료\2학년\1학기\프로그래밍랩\과제 9\project1\7-5\main.c(21): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\pc\desktop\대학자료\2학년\1학기\프로그래밍랩\과제 9\project1\7-5\main.c(23): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+  7-5.vcxproj -> C:\Users\pc\Desktop\대학자료\2학년\1학기\프로그래밍랩\과제 9\Project1\Debug\7-5.exe
